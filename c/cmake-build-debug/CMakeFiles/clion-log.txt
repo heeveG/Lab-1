@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4588.63\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\nazar\OP2019\borg\c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/nazar/OP2019/borg/c/cmake-build-debug
